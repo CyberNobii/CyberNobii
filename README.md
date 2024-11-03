@@ -28,7 +28,7 @@ I am **pyhacker**, passionate about coding and technology! I love working with *
 ## Contributions
 Here are some of my notable contributions to open-source projects and communities:
 
-### [KILLER-bee](link-to-project)
+### [KILLER-bee](https://github.com/pyhacker01/KILLER-bee)
 - KILLER-bee is an all-in-one tool for scanning viruses, nearby Wi-Fi, Bluetooth, IP addresses, and more. It includes features like IP spoofing and network monitoring. I contributed to the development and optimization of its scanning algorithms, enhancing the tool's efficiency and effectiveness.
 
 
@@ -62,7 +62,7 @@ Here are some of my notable contributions to open-source projects and communitie
 ## Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/code_dreamerr_)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.com/in/its_prOgrammerr) <br>
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pyhacker01) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pyhacker01)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyberpheonix27@gmail.com)
 
