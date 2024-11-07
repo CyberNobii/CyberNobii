@@ -29,7 +29,7 @@ I am **pyhacker**, passionate about coding and technology! I love working with *
 Here are some of my notable contributions to open-source projects and communities:
 
 ### [KILLER-bee](https://github.com/pyhacker01/KILLER-bee)
-- KILLER-bee is an all-in-one tool for scanning viruses, nearby Wi-Fi, Bluetooth, IP addresses, and more. It includes features like IP spoofing and network monitoring. I contributed to the development and optimization of its scanning algorithms, enhancing the tool's efficiency and effectiveness.
+- KILLER-bee is an all-in-one tool for scanning viruses, nearby Wi-Fi, Bluetooth, IP addresses, and more. It includes features like IP spoofing and network monitoring. 
 
 
 ## Tools
