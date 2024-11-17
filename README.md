@@ -30,7 +30,9 @@ Here are some of my notable contributions to open-source projects and communitie
 
 ### [KILLER-bee](https://github.com/pyhacker01/KILLER-bee)
 - KILLER-bee is an all-in-one tool for scanning viruses, nearby Wi-Fi, Bluetooth, IP addresses, and more. It includes features like IP spoofing and network monitoring. 
-
+###
+[VoltPika-R](https://GitHub.com/pyhacker01/VoltPika-R)
+- VoltPika-R is a mass-reporting tool for targeting spam, scams, and inappropriate content on social media platforms like Instagram, Facebook and TikTok
 
 ## Tools
 ### Development Tools
