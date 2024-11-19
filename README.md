@@ -22,6 +22,8 @@ I am **pyhacker**, passionate about coding and technology! I love working with *
 
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyhacker01&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyhacker01&layout=compact&theme=radical)
+
 
 
 
@@ -67,7 +69,7 @@ Here are some of my notable contributions to open-source projects and communitie
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pyhacker01) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pyhacker01)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyberpheonix27@gmail.com)
-![Visitor Count](https://komarev.com/ghpvc/?username=pyhacker01&color=blue)
+
 
 
 
