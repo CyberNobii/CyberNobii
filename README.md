@@ -19,8 +19,8 @@ I am **pyhacker**, passionate about coding and technology! I love working with *
 
 
 ## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyhacker01&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyhacker01&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberNobii&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberNobii &layout=compact&theme=radical)
 
 
 
