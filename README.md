@@ -25,14 +25,6 @@ I am **pyhacker**, passionate about coding and technology! I love working with *
 
 
 
-## Contributions
-Here are some of my notable contributions to open-source projects and communities:
-
-### [KILLER-bee](https://github.com/pyhacker01/KILLER-bee)
-- KILLER-bee is an all-in-one tool for scanning viruses, nearby Wi-Fi, Bluetooth, IP addresses, and more. It includes features like IP spoofing and network monitoring. 
-###
-[VoltPika-R](https://GitHub.com/pyhacker01/VoltPika-R)
-- VoltPika-R is a mass-reporting tool for targeting spam, scams, and inappropriate content on social media platforms like Instagram, Facebook and TikTok
 
 ## Tools
 ### Development Tools
@@ -62,11 +54,11 @@ Here are some of my notable contributions to open-source projects and communitie
 ---
 
 ## Connect with Me
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VauW58x6GcGNfEXoZx41)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895326225812)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/code_dreamerr_)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pyhacker01) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pyhacker01)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyberpheonix27@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek16kujur@gmail.com)
 
 
 
