@@ -8,10 +8,15 @@ I am **pyhacker**, passionate about coding and technology! I love working with *
 ## Skills
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
+&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/>
 </p>
 
@@ -57,12 +62,15 @@ I am **pyhacker**, passionate about coding and technology! I love working with *
   <a href="https://facebook.com/your-facebook-username" target="_blank" title="Facebook">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="50" height="50"/>
   </a>
+&nbsp;&nbsp;
   <a href="https://instagram.com/code_dreamerr_" target="_blank" title="Instagram">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="50" height="50"/>
   </a>
+&nbsp;&nbsp;
   <a href="https://wa.me/62895326225812" target="_blank" title="WhatsApp">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50" height="50"/>
   </a>
+&nbsp;&nbsp;
   <a href="mailto:abhishek16kujur@gmail.com" target="_blank" title="Email">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50"/>
   </a>
